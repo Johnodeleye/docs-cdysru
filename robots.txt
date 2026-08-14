@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-kte0o1.yoursingles.online/sitemap.xml
